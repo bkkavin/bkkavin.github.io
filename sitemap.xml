@@ -11,6 +11,14 @@
   </url>
   
   <url>
+    <loc>http://localhost:1313/my-first-post-d/</loc>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/posts/</loc>
+  </url>
+  
+  <url>
     <loc>http://localhost:1313/tags/</loc>
   </url>
   
