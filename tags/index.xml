@@ -12,11 +12,11 @@
     
     
     <item>
-      <title>My first post :D</title>
-      <link>http://localhost:1313/my-first-post-d/</link>
+      <title>My first post</title>
+      <link>http://localhost:1313/my-first-post/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/my-first-post-d/</guid>
+      <guid>http://localhost:1313/my-first-post/</guid>
       <description>&lt;h2 id=&#34;welcome&#34;&gt;welcome&lt;/h2&gt;
 &lt;figure&gt;
     &lt;img src=&#34;http://localhost:1313/images/rickroll.png&#34;/&gt; 
