@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on My New Hugo Site</title>
+    <link>http://localhost:1313/tags/</link>
+    <description>Recent content in Tags on My New Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    
+    <item>
+      <title>robot</title>
+      <link>http://localhost:1313/robot/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/robot/</guid>
+      <description>&lt;h2 id=&#34;i-have-decided-to-work-on-robotics-and-artificial-general-intelligence&#34;&gt;I have decided to work on robotics and artificial general intelligence&lt;/h2&gt;
+&lt;p&gt;he agi is a hard problem which a small team can&amp;rsquo;t solve.
+the problem I&amp;rsquo;m trying to  solve is not exactly agi.
+the idea is this:
+ppl seem to be not so welcoming to the idea of robots (usually that has agi) because of doomsday scenarios portrayed in the scifi movies.
+a doomsday like that is certainly possible.
+there are really enthusiastic and optimistic people working on ai like mark zuckerberg who when faced with discouraging words ( or worse, ppl straight up tell them to stop working on it)
+tend to look at them as anti-technology ppl or smtg like that. we have to remember that&lt;/p&gt;
+&lt;h2 id=&#34;salvation&#34;&gt;&amp;ldquo;salvation&amp;rdquo;&lt;/h2&gt;
+&lt;p&gt;I&amp;rsquo;ve think a lot abt how the world works to have better control over stuff? or you could say I like to be right abt everything . &amp;ldquo;to take wise decisions in life and be well off .
+my goal is to start a company . yoga is smtg I&amp;rsquo;d die for . have a inquisition abt nature of existence. ppl like to think abt nature of universe. I dont do that . I think mostly abt nature of existence of humans and life forms generally.&lt;/p&gt;
+&lt;p&gt;if the society has to function well from an economical standpoint it requires some level of social stratification
+luke smith talked a bit abt this in his bs jobs podcast .
+u cant save the world by distributing lots of equal amounts of money to everyone that would only cause inflation.
+everybody has lots of money. so noone will be willing to work. and so if we have to incentivise them we will have to spend lot more money for doing the same job which they did for a lower price. and the problem which we aimed to solve will still persist .&lt;/p&gt;
+&lt;h3 id=&#34;humans-are-bad-at-doing-jobs&#34;&gt;humans are bad at doing jobs&lt;/h3&gt;
+&lt;p&gt;humans are really bad at doing jobs . we can see their survival instincts emotions lust and other factors playing in corporations - sexual harassment , racial discrimination, gender inequality, power politics among workers ,competition, jealousy , laziness, workers not giving  a fuck abt what they are supposed to do or lack of work ethics etc etc .
+my idea is to replace all jobs that is currently being carried out by humans with robots.
+make a robot whose design is open source - both hardware and software.
+a central authority will have full control over all the resource on planet and they will control the manufacturing and deploying of the robots to work in various fields and provide products and services for free of cost to all humans on earth. this is the only way equal wealth distribution can happen. humans dont have to work anymore. their only purpose is to  enjoy their life and robots&amp;rsquo;s job is to feed them - keep them alive and provide whatever is needed for humans to be happy  in life. this is my idea of utopia .&lt;/p&gt;
+</description>
+    </item>
+    
+    
+  </channel>
+</rss>
